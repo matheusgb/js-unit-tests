@@ -1,5 +1,5 @@
 # JS unit tests
-Projeto feito enquanto estudava na [Trybe](https://www.betrybe.com/), utilizando Jest e Javascript no módulo de fundamentos. Entregue com 100% dos requisitos. (Alguns requisitos eu teria que desenvolver o teste Jest, em outros requisitos eu teria que desenvolver o código javascript para atender os testes já feitos.)
+Projeto feito enquanto estudava na [Trybe](https://www.betrybe.com/), utilizando Jest e Javascript no módulo de fundamentos. Entregue com 100% dos requisitos respeitando o ESLint. (Alguns requisitos eu teria que desenvolver o teste Jest, em outros requisitos eu teria que desenvolver o código javascript para atender os testes já feitos.)
 
 ## Direitos autorais
 
